@@ -1,5 +1,8 @@
 _repo: Precepts-in-Practice-or-Stories-Illustrating-the-Proverbs_58791
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58791-h/images/cover.jpg
 creator:
   author:
     agent_name: A. L. O. E.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31385
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58791#Precepts-in-Practice-or-Stories-Illustrating-the-Proverbs
 gutenberg_issued: '2019-01-30'
 gutenberg_type: Text
 identifiers:
